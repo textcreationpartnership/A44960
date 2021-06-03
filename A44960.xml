@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the distressed Protestants in France as it was delivered to the French king : and now published both in French and English for the satisfaction of all true Protestants.</title>
+            <title>Au roy l'adresse tres humble des Protestans detressez en France. English &amp; French</title>
+            <author>Eglises réformées de France.</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44960</idno><idno type="EEBO-CITATION">12283353</idno>
+  <idno type="VID">58795</idno>
+  <idno type="EEBO-PROQUEST">2240974586</idno>
+  
+            <idno type="STC">Wing H3380</idno>
+            <idno type="STC">ESTC R18649</idno>
+            <idno type="OCLC">12283353</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 188:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the distressed Protestants in France as it was delivered to the French king : and now published both in French and English for the satisfaction of all true Protestants.</title>
+                  <title>Au roy l'adresse tres humble des Protestans detressez en France. English &amp; French</title>
+                  <author>Eglises réformées de France.</author>
+               </titleStmt>
+               <extent>7 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Au Roy l'adresse tres humble des Protestans detressez en France"--p. 4 [i.e. 5].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of religion --  France.</term>
+               <term type="geographic_name">France --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58795:1"/>
+            <pb facs="tcp:58795:1"/>
+            <p>THE Humble Address Of the DISTRESSED PROTESTANTS IN FRANCE, As it was delivered TO THE French KING.</p>
+            <p>And now published both in <hi>FRENCH</hi> and <hi>ENGLISH,</hi> for the satisfaction of all true PROTESTANTS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. C.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="speech">
+            <pb n="2" facs="tcp:58795:2"/>
+            <head>To the KING The Humble Address of the Distressed PROTESTANTS IN FRANCE, as it was delivered to the <hi>FRENCH</hi> KING. And now published both in <hi>FRENCH</hi> and <hi>ENGLISH,</hi> for the satisfaction of all true PROTESTANTS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Majesties Subjects of the P. R. Religion, do with all humility re<g ref="char:EOLhyphen"/>present to your Majesty, that your Declaration of the 17th of <hi>June</hi> last; doe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so overwhelm them with grief, that they are almost out of themselves; but nevertheless, they are so bold as once more to have recourse to your Majesty, hoping, that being still your most faithful Subjects, they shall not be denyed access for justice; and that rather like God Almighty, your Ma<g ref="char:EOLhyphen"/>jesty will be tender to hearken to the voice of the afflicted.</p>
+            <p>Upon this confidence they throw themselves at your Majesties Feet, and desire you to consider, that this Declaration is directly contrary to all the E<g ref="char:EOLhyphen"/>dicts, granted to those of that Religion, and particularly to the Edict of Nantes which has been given to them as a perpetual and irrevocable law, and which your Majesty has often confirm'd in many ways; for besides, that this does all along suppose, that your Subjects of that Religion shall enjoy in this your Kingdom all rights as well natural as civil, which are common to any of your Subjects; and that among those rights, that of the Power of Parents over their Children to the age of puberty is one of the most general; the 18th Arti<g ref="char:EOLhyphen"/>cle of that Edict does expresly provide, that none shall by force take away any Children from their Parents, to Baptize, give them the Sacrament of Confirma<g ref="char:EOLhyphen"/>tion against the will of their Parents.</p>
+            <p>'Tis well known, that Confirmation is never given to Children till they are Seven years old, and if the Edict forbids to give them Confirmation at that Age, sure much less will it allow them to be at liberty to choose their Reli<g ref="char:EOLhyphen"/>gion, and to make Abjuration at that Age of a Religion; in which they were born and educated.</p>
+            <p>'Tis with the same Intention, that the 38 Article of the same Edict does in express words say, that the Parents making profession of that Religion, may provide their Children with such Tutors and Educators as they shall think fit, nay, that they may name one or more either by Will or Codicil, before a notary or written with their own Hand.</p>
+            <p>Your Majesty Sir is most humbly supplicated to weigh the force of the word <hi>Education,</hi> even after the Death of the Parents; for it evidently demonstrates, that the Edict had a regard to the paternal Right of Parents over their Children, not only as inviolable during their Life; but extending its self even after their Death; so as no zeal of Religion, nor any other Pretext could take it away; nay it was so far from being limited to the Age of Seven years, that it was to
+<pb n="3" facs="tcp:58795:2"/> be preserv'd during the whole Course of the Education, which scarce begins at that Age, and is very narrowly limited when it ends at that of fourteeen.</p>
+            <p>Besides Sir; The Edict of Nantes is not either the only or the first Law, that speaks in favor of this Power, which being a Law of Nature is as antient as the World, (and 'tis a Maxim, that natural Rights are immutable) but it ap<g ref="char:EOLhyphen"/>pears also, that in one of the instructions of the Protestants answer'd in the Year 1571. under the Reign of <hi>Charles</hi> the Ninth; which was the severest Reign for those of that Religion.</p>
+            <p>The Power of Fathers over their Children was thought so sacred, that it was said upon the 24th. Article, that Fathers should not be hindred in the Education of their Children, according to the Principles of their Religion, and the Motives of their Conscience, and that even after the Death of the Parents; the Children should be Educated in the same Religion, till they had attain'd the full Age of fourteen Years, and then should be left to their Choice and Liberty.</p>
+            <p>But Sir, none of your Royal Ancestors have more Authentically acknowledged this Right of Parents than your Majesty. For besides, divers Judgements given in your Council of State in the Years 63. and 65. which are expresly in favor of this Power, your Majesties Declaration in the Year 69. has it in express words, that it is prohibited to all Persons whatsoever, not only to take away from their Parents the Children of the <hi>P. R.</hi> Religion, or to persuade them; but to make them also make any Change or Declaration of Change of their Religion, before they have attain'd the compleat Age of fourteen Years for the Males, and twelve for the Females; and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have respectively attain'd the same Age. They the said Children shall af<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Decease of their Parents, remain in the hands of their nearest Rel<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Religion; and that any that shall detain them shall be oblig'd <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack to their Relations. All this has been put in Execution, and Con<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>'d <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vers Presidents, and particularly by Judgement given by the Arch-Bi<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>op <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ms</hi> in the Month of <hi>Aug.</hi> 76. by which it is or<g ref="char:EOLhyphen"/>dain'd, that none of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he female Sex, shall be receiv'd into the House of the Propa<g ref="char:EOLhyphen"/>gation of the Faith at <hi>Sedan,</hi> till they have attain'd the Age of twelve Years com<g ref="char:EOLhyphen"/>pleat.</p>
+            <p>Your Majesties Suppliants beg leave to represent to your princely Consideration, the difference, that will be found between the declaration of 1669. and this last of 1681. the first Leaves to Nature, 'its Rights and Priviledges; to conscience its Motives and Impulses, to the civil and common Laws their Principles and Maxims; to your Parliaments their Rules and constant Methods of Proceeding, to forrain Nations an Example worthy their Imitation, and lastly to the <hi>Catholick Roman</hi> Religi<g ref="char:EOLhyphen"/>on, the Honor of keeping within some Bounds of Equity in Conformity to Rea<g ref="char:EOLhyphen"/>son, and the Practise of the primitive Church, whereas under this new Law, Nature suffers, and groans to see Children torn from the Bosom of their Pa<g ref="char:EOLhyphen"/>rents to whom she had given them; and who ought to be more theirs at the Age of Seven years, then before; since 'tis properly at that time, that their Education begins, and that Parents do as it were take Possession of their Right.</p>
+            <p>The Conscience of your Petitioners will be troubled, and disquieted in the most cruel manner imaginable, since the Paternal care of Children, for their education is one of the most important, and indispensable dutyes of Conscience; every Parent being responsable to God Almighty for his Childrens actions, while nature has deposited them in his hands.</p>
+            <p>The civil, and cannon Laws will both speak in favour of your suppliants; for if Children before the age of puberty, which is at fourteen can neither make a will, nor be witnesses, at Law, nor make Vowes, nor do any Act of their own will; how can it be thought reasonable, that they should before that age, make choice of their Religion, which is the most important Act of their whole life. Your Par<g ref="char:EOLhyphen"/>liaments, Sir, who following the common Principles of reason, and equity, did never yet Subject Children to capital Punishments, before the age of puberty, must now violate that Custom of all Nations, and practised in all ages, for by making Children of Seven year old, capable of choosing their Religion, they are at the same time expos'd to contract the crime of those, that are called relaps, and by consequent
+<pb n="4" facs="tcp:58795:3"/> do undergoe the capitall Punishment, ordain'd by your Majestys Lawes, in that case.</p>
+            <p>Forreiners, and Infidells themselves, will think themselves well Authoriz'd by this example, to take the Children of those, who profess a Religion contrary to theirs.</p>
+            <p>And lastly the Roman Catholick Religion, will hardly avoy'd the reproach of all good Christians, when it shall appeare, that it not onely receives but forces conver<g ref="char:EOLhyphen"/>sions, from Children of Seven years old, that is in an age, when they have but the first appearances of reason, and when their Judgments, scarce begin to Act; and where by consequent any change of their Religion, cannot proceed from a determinate choice, but from a blind obedience, or yielding to the threats, or allurements, that can move them. That it is contrary to the Practice of the primitive Church is so visible, that even admitting your suppliants to be Hereticks; tis most certain, that in An<g ref="char:EOLhyphen"/>tient times, the Church never took away Children under age, from those that liv'd under the same tyes of civil society with them, though at the same time they thought them Infidels. In a word, Sir it is an unheard of practice to this day, in all the Na<g ref="char:EOLhyphen"/>tions of the world, that the Power of Fathers should be restraind to Seven years over their own Children, Particularly in Cases of Religion.</p>
+            <p>
+               <hi>Thomas Aquinas</hi> one of the greatest Doctors of the <hi>Roman Catholicks</hi> decides positively, that it is not lawful to baptize the Children of the Jews against the Will of their Parents; and that for two Reasons, one, that it was never the Practice of the Church, and the other, that it is against the Course of natural Justice, and when the Kings of <hi>Spain</hi> and <hi>Portu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al, S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sebut</hi> and <hi>Emanuel</hi> carri<g ref="char:EOLhyphen"/>ed on by a Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al of Religion, went about to practice something like it. The fourth Councel of <hi>Tol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>do</hi> oppos'd the Action of the King of <hi>Spain;</hi> and all the World has blamed the Proceeding of <hi>Emanuel,</hi> when he took away from the Jews their Children under fourteeen Years of Age. The famous Bishop <hi>Osori<g ref="char:EOLhyphen"/>us</hi> who speaks of it says, that it was an Action neither founded in Justice nor in Religion; though it proceeded from a good Intention, and aim'd at a good End, because God Almighty requires from Man-kind a voluntary not a forc'd Sacrifice. It being against his Laws, that any Violence should be offer'd to Conscience, to which he adds this terrible Circumstance, that divers of those unfortunate Fathers threw their Children headlong into deep Wells, and preci<g ref="char:EOLhyphen"/>pitated themselves after them.</p>
+            <p>It cannot be alledg'd, Sir, that the Declaration of your Majesty does not order the taking away of Children from their Parents, and that it only gives them the Liberty of choosing their Religion. For in the first Place, the Violence is not so much to be look'd upon as offer'd to the Children, but to the Parents whose Children they are by the Gift of God and Nature; 'tis the sence of the same <hi>Thomas Aquinas,</hi> who speaking of the Jews says, that it were injustice to baptize their Children against their Will, because it were taking away from them that paternal Power, with which they are invested by nature, which says he, the Church never did even in the most Christian Princes times, as <hi>Constantine,</hi> and <hi>Theodosius,</hi> who with<g ref="char:EOLhyphen"/>out doubt would have permitted it, had it not been against all Reason. And the Edict of Nantes its self in the 18th Article forbids equally Force and Persuasion, and calls them both Violence, and all Laws have as severely punish'd the Rape of Seduction, as that of force in Children under Age.</p>
+            <p>Secondly, the Age of Seven years fully attain'd does not hinder, but that as to the Parents the Violence is as great, as if their Children were torn from their Mothers Breasts; because that all Laws both natural and civil do submit Chil<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en to their Parents till the Age of Puberty, and therefore 'tis equal to take them away at Seven years old, and in the Cradle.</p>
+            <p>If it be alledg'd that Children at Seven years old are capable of sinning mor<g ref="char:EOLhyphen"/>tally, and so may be admitted to the Choice of their Religion. We answer, that besides that, that Principle is not generally allow'd, and that it would be very hard to iudge your Petitioners by Maxims which they do not receive; 'tis easie to see that it is a very unjust and unequal Inference, and that there is a great deal of difference between the first Ideas of good and evil, which Children may begin
+<pb n="4" facs="tcp:58795:3"/> to have at Seven years old, and the Decernment or Decision of two Religions, with a determination to leave that, in which they have been brought up to follow another, which must of Necessity be less known to them, if they are not altogether ignorant of it, and which the World knows to be a choice of so difficult a nature, that it is the Earnest Endeavor of human Mind animated with the Perquisition of its Way to Heaven.</p>
+            <p>Your Petitioners shall not here touch upon the fatal and sad Consequences which are like to attend the Execution of so severe a Law; the Dispair of Fathers and Mothers, the inevitable Discord between Parents and Children; the Change of Education from the tender Hands of Parents into those of Strangers: the Liber<g ref="char:EOLhyphen"/>ty it gives to ill dispos'd Children who will scorn the Correction of their Parents, having means ready to shake off their Authority, the Exaction of unreasonable Pensions from Parents for the keeping of their Children out of their own Fami<g ref="char:EOLhyphen"/>lies; the forc'd retreat of many thousands out of your Majesties Dominions; the apprehension that those that remain will be in to have any Children born to 'em, and a thousand other Inconveniencies, and Interruptions of the Bonds of civil Society.</p>
+            <p>Your Petitioners Sir, are convinc'd as well as all the World, that nothing here can resist your Power; but they know likewise, that your Majesty loves to temper that Power with Sweetness and Justice after the Imitation of God Almighty, who never displays the Infinity of his Power upon his poor Creatures, that he does not at the same time look upon 'em with Eyes of Compassion.</p>
+            <p>'Tis your Justice to that your Petitioners implore in the Excess of their Grief, and 'tis to you alone that they direct their sighs and tears, taking the Confidence to say as it is true, that they had rather endure all things, and death it self rather than be parted from their Children in so tender an Age, and so be hinder'd from Educating them in their own Religion, according to the Obligation of their Consciences.</p>
+            <p>Therefore your Petitioners humbly beg, that it may be your Royal Pleasure to revoke and annul the Declaration of the 17th. of <hi>June</hi> last, and to order that that of <hi>Febuary</hi> 1669 shall be in full force, and your Petitioners shall continue to offer up their Vows and Prayers, for your Majesties most prosperous and glorious Reign.</p>
+         </div>
+         <div xml:lang="fre" type="speech">
+            <head>Au ROY L' Adresse tres Humble des PROTESTANS DETRESSEZ en FRANCE Comme il estoit presenté au ROY de <hi>FRANCE.</hi>
+            </head>
+            <opener>
+               <salute>Sire.</salute>
+            </opener>
+            <p>VOuz Subjetes de la R. P. R. remonstrent tres humblement à vostre Ma<g ref="char:EOLhyphen"/>jeste, que sa Declaration du 17 de <hi>Juin</hi> derniere plonge dance une de<g ref="char:EOLhyphen"/>solation qui leur laisse à prendre la liberté de le recognoistre iles estoits pourtant recourier Encore à vostre Majeste, poursuader qui stance ses fideles
+<pb n="2" facs="tcp:58795:4"/> subjetes, laccier &amp; la Justice ne leurs seras pas deni é &amp; que limitation de Dieu qui Escoutte tous Jours la voix dé Laffligé elle ne Rejettera pas leurs plaints, dance cette Confiance, Sire, se Jettants aux piedes de Vostre Majeste, nous te supliones tres humblement de considerer que cette declarition est di<g ref="char:EOLhyphen"/>rectement contraire aux Edicter accorder à ceux de la dit R. &amp; en particuli<g ref="char:EOLhyphen"/>rer à Ledicte de nantere souber lequelle ils sept neé qui Leurs à esté donné Comme une Loy perpetuelle &amp; Irevocalle, &amp; que Vostre M. Elle mesme à Con<g ref="char:EOLhyphen"/>firmer plusieurs maniers Car oultre qui, Generall ledict à suppose Constament que cette suppliance Joniroient dans vostre Royaume de toute se droit tant naturelle que civile que sont Communer à toutes vostres Subjetes, &amp; gentre ce droite, Cetuy qui rende lee peaure maistre de L'education de lever enfance, maisme au de la aage de puberté en un de plus forte &amp; de &amp; de plus Sa<g ref="char:EOLhyphen"/>cre Larticle 18 defende expressement detirer les enfants de peaures contre Leurs Grès pour les faires baptizér &amp; Confirmé Loy Scàitque la Confirmation ne se donne que sept annes, &amp; si Ledict de donner aux Enfants de Ceux dd la dite R. à cette aage, ill permet enchore moienes de leur faire une abjuration formelle dela Religion danse lequelle ils sont niee, cest dansè le mesme Esprit qué Larticle 38. de particulieur du mesme Edict, portant enchore leterme Ex<g ref="char:EOLhyphen"/>pree que le pere faisant profession dd la dite R. pouroient pourvieu a lever len<g ref="char:EOLhyphen"/>fance à telle Educature que loy leurs sembleras &amp; en substitué en, ou plusieurs pavre testements Cadicile, ou autre declaration passeè par devant Notaire ou Escrite &amp; signee de Leur Majestè.</p>
+            <p>Vostre Majeste Sire est tres humblement suplier De passer force detreme d' Edu<g ref="char:EOLhyphen"/>cateur mesme apres lamort deperes car il monstre clairement quil edict à rega<g ref="char:EOLhyphen"/>re le Droit de peres Sur le enfance non seulement Comme Inviolabile pendante Leur vie mais Comme une droict qui sestend mesmes a pres la mort que nul zeele dd. R. ou autre pretext ne peut estre, &amp; qui bien loine destre limité à ce<g ref="char:EOLhyphen"/>temps la, se conserve durant toute la cource de Leducation Laquelle Com<g ref="char:EOLhyphen"/>mance à peine a Sept annes; &amp; setrouvez sord derestraint quand en à determine à quatorze, qui est Laage de Pubesté.</p>
+            <p>Dailieure Sire.</p>
+            <p>Ledict de <hi>Nantre</hi> na pas esté en cela la seule ne la premire Loy, Car outre que Cett la un Droict naturelle ausi anciene que le monde, et que cette une maxime generale &amp; Constant que le droicts naturelles sont imutables, ill paroist qú au respondue an anne 1771. soubz le regne de Charle 9. (le temps le plus ourt ceux de la dre R, an trouvant ce Droict de peres sur leurs Enfants: sy inviolable quil fut ditt sur le 24. article que le ne seroient point Empeschè en Leducation de Leurs Enfants de Loy Leur R. &amp; conscience &amp; apres lamort de peres les Effects seroiest Entretunes en le memes Religions Jusque le temps de quatorze ames completé allors ils servoient en Liberté.</p>
+            <p>Maise sire au cunde Royes vostres Predicesseurs na recognu &amp; declare ce mes me Droict plus authentique que Vostre Majeste caroutre plusieurs arres ter rendue en son Consielle destate en mill six cent soix sante troix, &amp; en 1667. qui sont Expree sure cette subjette vostre Declaration de 1669, porte en propre terme, quil est faite de senses à toutes personnes nous seulment delivre les En<g ref="char:EOLhyphen"/>fance de la dite Religion avant Laage de quatorze annees accomplié pourle ma<g ref="char:EOLhyphen"/>sher, &amp; de douze annees accomplié pourla se meller, &amp; en attendant quil en ay ent ateint a la dite aage: que Lenfante ne dun pea de la dite Relligion demeur eront en le maniere de leurs parents de la dite Religion &amp; toutes ceux qui les De<g ref="char:EOLhyphen"/>teindront sont Constrainte de les rendres.</p>
+            <p>Cela mesme a este D pour Executer &amp; Confirme par divers arrestes, &amp; en par<g ref="char:EOLhyphen"/>ticulier par un arrest que Mr. Larcheues que de Rheine a faite, Rendre au moie D Aust 1676. par le quelle illa este Exposé, et ordonne quaucune fille ne pourioit Estre dans les maisons de la propagation de la foy à sedan quelle nait at<g ref="char:EOLhyphen"/>teint le aage de Douze annees accomplié.</p>
+            <p>Lue V. M. Sire permestre sil luy Plaiste aux supliance de luy representer la diferance que veut estre mouver entre sa declaration de 16<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. &amp; celey la pre<g ref="char:EOLhyphen"/>miere laiesse à la nature ses privileidges, à la Conscience ses motives &amp; ses Im<g ref="char:EOLhyphen"/>pulsiones
+<pb n="3" facs="tcp:58795:4"/> aux loy civile &amp; canonique leurs principalites &amp; leurs maximes, aux Parliaments leurs regles constants &amp; ordinaires aux Nations Estranges un Ex<g ref="char:EOLhyphen"/>emple digne deleurs Imitations à la Religions C. R. l'honeur de garder des me<g ref="char:EOLhyphen"/>sares d'Equitè confirme a la droite Raison, &amp; à la pratique de l' Egleze anciene, au Lieu que soubz cette nouvelle Loy la nature Gemira de voire les Enfants dechere du sein de ceux à qui elle les à donner, &amp; à qui elle le donner plus à jage de sept Anne q'aucune autre temps pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceque cette à cette, àage la, proprement que commence l'education &amp; que leur perés entrant veritable<g ref="char:EOLhyphen"/>ment en posession de leurs droits.</p>
+            <p>La Consience de supliance setrouva trouble &amp; Inquiete de la manieire du monde la plus douloureuse, car lauthoritè paternelle surles Enfants pour leur Education &amp; une de plus sorte &amp; plus Indispensible devoires dont la Consience puisse estre obligeé de rendre compte à dieu, Chaque pere estant responsible de<g ref="char:EOLhyphen"/>vant dieu de toute ceque faite son Enfant pendant toute la temps que la nature à deposé eux en Leurs maines, la droite civile &amp; canonique parleront ausi pour les supliance, car si les Enfantes devant l'aage de puberté ne peuvant faire une telle ne porte temoinage en Justice ne faire de voeux ne passer aucune act de propre volonté, comment peut en voulorie q'uavant cette aage ils soyent endro<g ref="char:EOLhyphen"/>ict &amp; en liberté de faire un Choix de Religion, qui est lact le plus Important de leur vie.</p>
+            <p>Sire,</p>
+            <p>Vos Parliaments Sire qui suivant les principeè Commune dela raison &amp; d' Equité nont Jamais soumis les Enfants aux peine Capitale avant làage de pu<g ref="char:EOLhyphen"/>berté se trouvoient obligez de prononcer contre cet usage, detoute le peuple &amp; detoute les secles, car en Rendant les Enfants de sept anneé capable de Changer dd Religion on le Rend à la mesme temps capable de tomber dans le Crime de ceux q'on apelle relapsè &amp; lon le soubmét aux peine capitale portre par vostre ordinance. Les Nations Estranges &amp; les Infideles eux mesmes se croirent authorizeé par cette Example à prendre les Enfants de ceux qui pro<g ref="char:EOLhyphen"/>fesson tune religion contraire à leurs.</p>
+            <p>En fine C. A. R. ne craindre telt point lé reproach quandon verràs quel force &amp; ad et de conversiones à septe Anneés è cetta dire dance une aage ou la rai<g ref="char:EOLhyphen"/>son ea mica de fixé ny le Judgment rein de regle &amp; ou par consequent le Change<g ref="char:EOLhyphen"/>ment drn Religion nè sè auroit proceder que dane obeisance aveugle, ne pour<g ref="char:EOLhyphen"/>estune pas ausi dire quelle se seigne Entierment de la practique del' Eglise chre<g ref="char:EOLhyphen"/>stient Car en suposant mesme les supliance comme Heritiques, il est constant que Jammaise l'anciene Eglize, na esté les Enfants impubertè de ceux qui vi<g ref="char:EOLhyphen"/>voient avec ils dance une mesme societie Civile quoi quils regardoient este Infi<g ref="char:EOLhyphen"/>dels. Ill est Injoy sire Jusqua present parmis les Chrestienes &amp; dance toute les nations du monde quóu aient comme reduiet, &amp; reformè que la puissance des peres sur Leurs Enfants aù desoubz de sept annee principallimere pour la re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Un de plus grand Docteurs de leglize C. A. R. decide ouvertment q'on ne doit point baptizé les Enfants des Juifs contre le gré de leurs peres &amp; cela pour deux raisons,<note place="margin">T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omace d' Aquine.</note> lune que la pratique del'e<g ref="char:EOLhyphen"/>gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze ne Jammais l'apprové, l'autre que la Justice naturelle y resi<g ref="char:EOLhyphen"/>ste, en effect lorse que des Roys d'Espagne, ou du Portugal comme sisebut &amp; E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uel movè d'un zele de Religion, ont volu Entre prendre quelque choses sem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, la Consiel 4. de Tolede sest opposè à l'action du premiere, &amp; toute le <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> à blasme l'ordonance que fit Emanuel, pour oster aux Juifs leurs Enfants, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quatorze anneè. Oserivez l' Evesque celeble, qui en parle, dit <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ce fut une action qui nestoit fonde, ni en Loy ni eu Religion, quo{que} quel <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>une bene Intention &amp; tendist à une bonne fin, parceque dieu deman<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> homme un Sacrifise voluntaire, &amp; quil ne veut pas le force le consciance <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> adjoute cette Circonstance terible, que plusieurs des ses peres mal <gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ux, portent Jusque lexceè de Jeter leurs Enfants dans de puite &amp; dese <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>x mesmes.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nc ne di se point sire que la Declaration n' or donne pas Darraché les
+<pb n="7" facs="tcp:58795:5"/> Enfants du sein du peres &amp; qu'elle le laisse simplement en liberté de Choisir la Religion, Cath apostolique &amp; Rom: car en premiere lieu ill ne faut pas considere la force qú on faite ceux Enfants mait comme ils font aux peres a qui la nature les a donner.</p>
+            <p>Ceste le raisonement du mesme Docteur <hi>Thomas D'aquin</hi> dont on dient de parler on seroit dit ils In justice aux Juifs, q on baptizoit leurs Enfants contre leurs Grè, car on leurs ravesoit le Droite de la puissance paternelle qúils ont suc leurs Enfants ce qui dit ils lèglize na Jammaise faite ducent le temps des princes tres chrestiennes, comme Constantine &amp; Theodose qui l'auroient sance doute permet, si cela n'avoist esté contraire à la droit, ausi l'edjct de Nanteer en Lart, 18 defend Egalement la force &amp; linduction, quallifiant lun &amp; l'autre un Enleivement toute l'ordinance ont punir ausi severement le rapt de perswasi<g ref="char:EOLhyphen"/>on que celuy de violence.</p>
+            <p>En second lieu l'aage de sept annee nempesche das quil ne ait autant de sorce &amp; autant de constrainte à l'egard des peres que sy on ravisoit les Enfants à la mamelle, parceque sy le droit naturelle et civile, met les Enfants Enla pu<g ref="char:EOLhyphen"/>issance de peres Jusque à l'aage de puberté, cette la mesme choses de l'otter à sept anne que de l'oster dele leceau puisque le droit de la puissance paternelle sy trové Vegallement violé.</p>
+            <p>Sy l'on dit que les Enfants à sept anneé sont capable de pescher mortelles &amp; quàin si parvient faire choix d'ane Religion que parle genrallement pe princi<g ref="char:EOLhyphen"/>pe est fort Incertaine, &amp; qu'il ne seroit pas raisonable de Jugee les supliance, pas de maxime qu'il ne re con oistant pas, &amp; qui ne voit, sire que la Consse<g ref="char:EOLunhyphen"/>quence n'est pas Juste, &amp; qu'il y à grand Difference entre le premiere Idiee du bien &amp; du mal, que les Enfants pervient dance les actiones de la vie &amp; le de sernement &amp; de Religion ou plulost de determination a quitter la Croyance dance le quel ils ont esté Eleve pouv en siviore une qui leurs &amp; moinee cog<g ref="char:EOLhyphen"/>nue.</p>
+            <p>Ou toute a faite Incognue, cèst a dire une choix qui est le plus grand efort de les prit de chemine quand it cherché Uniquemen son salute.</p>
+            <p>Les soupliance ne touchont sey le triste &amp; facheuse suittee de l'execution, duné loy qui leurs paroist si dure, le desespoire de peres &amp; de meres, la discord inevetible entre les peres &amp; les Enfants, le changement dé léducation naturelle que desmeines des peres passer dans les maines des Estrangers, le libertinage des Enfants qui ne Craindront plus la Corection des peres &amp; qui auroit sons Jours une pretext pourluy sou traire l'exactione de pensioner púon Exigue des peres de l'entretiner de leurs Enfants horse de leur maison &amp; au de sus de leur source, la fuite forcer des plusieurs familees hores de Royaume, l'aprehansion quáuroient ceux de la Religion, lailenation, de l'esprité &amp; mille d'autre Incon<g ref="char:EOLhyphen"/>veniences dance la socite civile.</p>
+            <p>Les soupliance sire sont convincue avee toute laterre que sien ne peut resister à vostre puissance maite ils s'cavaut ausi que Vostre Majeste aime Temperer son authoritie &amp; son pouvoire par sa bonte &amp; sa par Justice à l'exemple de dieu mem equi ne de ploy Jammaise sa force Infinie sur ses Creatures pu'il ne le regarde en meme temps des yeux de sa Compassion.</p>
+            <p>Cest done vostre Justice sire que les supliance Implorent dance l'excees de leurs dou leurs cette a elles quils adressant leurs voix &amp; leurs Laarmeè &amp; sance man<g ref="char:EOLhyphen"/>que ou respect quils le doivent à vostre Majeste Ils osoient dire qu'ils aimoient meux soufrir toute sorteé de maux &amp; lamort mesme que de se voire se parè de leurs Enfants dance une age si tendre &amp; de ne douvoire plus les Elever dance leurs Religion se lon les obligations de leurs Consciences.</p>
+            <p>A Cette Cause sire Plaise a vostre Majeste en revoquant novelle Declaratione du 17 on de <hi>Juine</hi> derniere ordonne que celle de sevriere 1669 sera Executè selon la forme &amp; tenue &amp; les supliance continueront leurs veaux &amp; leurs pre<g ref="char:EOLhyphen"/>res pour le glorieux Resgne de Vostre Majeste.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58795:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
